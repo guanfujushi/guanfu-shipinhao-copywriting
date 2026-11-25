@@ -1,8 +1,10 @@
 # 视频号爆款文案生成 · guanfu-shipinhao-copywriting
 
-> 转发驱动的视频号专用文案工具——视频号与抖音小红书的平台差异(社交推荐/转发是主分发动力)、转发驱动钩子句式库20+(亲情/认知/共鸣/身份认同四场景)、视频号短配文格式(标题+正文+话题)、发布时间与评论区互动引导、发布前自检清单。适用于
+> 转发驱动的视频号专用文案工具——视频号与抖音小红书的平台差异(社交推荐/转发是主分发动力)、转发驱动钩子句式库20+(亲情/认知/共鸣/身份认同四场景)、视频号短配文格式(标题+正文+话题)、发布时间与评论区互动引导、发布前自检清单。……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
+
+**English**: WeChat Channels (Shipinhao) copywriting toolkit — how Shipinhao differs from Douyin/Xiaohongshu (social recommendation, share-driven distribution), 20+ share-driven hook templates across four scenarios, short-caption formats, posting-time guidance, comment-section tactics, and a pre-publish checklist.
 
 ---
 
@@ -19,7 +21,7 @@
 3. 零依赖、纯知识方法论包——不联网、不调付费接口。
 
 ```bash
-git clone https://github.com/guanfujushi/guanfu-shipinhao-copywriting.git
+git clone https://github.com/guanfujushi/guanfu-shipinhao-copywriting.git && cp -r guanfu-shipinhao-copywriting ~/.skills/   # 一键下载并装进 skills 目录
 ```
 
 ## 目录结构
@@ -33,6 +35,8 @@ guanfu-shipinhao-copywriting/
 
 ## 联系与合作
 
+- 🤝 **商务合作**：`13148728713`
+- 💬 **微信号**：`guanfujs`
 - 📱 **技能市场**：在技能市场搜索「**观复居士**」，可以看到本系列全部技能
 - 📰 **公众号**：观复的国学笔记（国学 · 命理文化 · AI 内容工程系列更新）
 
