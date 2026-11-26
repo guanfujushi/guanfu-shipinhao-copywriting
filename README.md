@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-shipinhao-copywriting)
+
 **English**: WeChat Channels (Shipinhao) copywriting toolkit — how Shipinhao differs from Douyin/Xiaohongshu (social recommendation, share-driven distribution), 20+ share-driven hook templates across four scenarios, short-caption formats, posting-time guidance, comment-section tactics, and a pre-publish checklist.
 
 ---
